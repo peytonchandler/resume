@@ -1,16 +1,19 @@
 # **Peyton Chandler**
 
 Golden, CO
+
 peytonchandler@mines.edu
 
+<img src="Pictures/CameraRoll/designprofilepic">
+
 ## **Education**
-Colorado School of Mines, BS in Geophysical Engineering
+**Colorado School of Mines**, BS in Geophysical Engineering
 
-- GPA 3.2 
+- GPA: 3.2 
 
-Legacy High School, Diploma
+**Legacy High School**, Diploma
 
-- GPA 4.02
+- GPA: 4.02
 
 ## **Experience**
 **Crtical Materials Innovation Hub**
