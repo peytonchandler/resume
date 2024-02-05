@@ -1,15 +1,15 @@
-#Peyton Chandler
+#**Peyton Chandler**
 
 Golden, CO
 peytonchandler@mines.edu
 
-##Education
+## **Education**
 Colorado School of Mines, BS in Geophysical Engineering
 -GPA 3.2 
 Legacy High School, Diploma
 -GPA 4.02
 
-##Experience
+## **Experience**
 Crtical Materials Innovation Hub
 - Ran and managed the bioreactor system
 - Trained a graduate student
@@ -19,12 +19,12 @@ Geophysics Ambassador
 - Helped recruit new students for the Geophysics department
 - Engaged in critial conversations to help incoming students feel welcomed
 
-##Skills
+## **Skills**
 - Microsoft 365
 - Python
 - GitHub/Gitbash
 - Communitation: English and Spanish
 
-##Projects
+## **Projects**
 - Designed a user friendly waterfilter for household use.
 - Designed a program to help children with autism feel comfortable learning how to swim.
