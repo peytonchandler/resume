@@ -7,19 +7,20 @@ peytonchandler@mines.edu
 Colorado School of Mines, BS in Geophysical Engineering
 
 - GPA 3.2 
+
 Legacy High School, Diploma
 
 - GPA 4.02
 
 ## **Experience**
-Crtical Materials Innovation Hub
+**Crtical Materials Innovation Hub**
 - Ran and managed the bioreactor system
 - Trained a graduate student
 
-Office Assisstant for the Civil and Environmental Engineering Department
+**Office Assisstant for the Civil and Environmental Engineering Department**
 - Performed tasks that allowed smooth office function
 
-Geophysics Ambassador
+**Geophysics Ambassador**
 - Helped recruit new students for the Geophysics department
 - Engaged in critial conversations to help incoming students feel welcomed
 
