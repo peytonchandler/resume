@@ -4,7 +4,7 @@ Golden, CO
 
 peytonchandler@mines.edu
 
-<img src= designprofilepic.jpg width="200" height="400">
+<img src= designprofilepic.jpg width="200" height="350">
 
 
 ## **Education**
