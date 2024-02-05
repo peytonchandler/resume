@@ -4,7 +4,8 @@ Golden, CO
 
 peytonchandler@mines.edu
 
-<img src="Pictures - Shortcut.lnk" designprofilepic>
+<img src="designprofilepic.jpg" designprofilepic>
+
 
 ## **Education**
 **Colorado School of Mines**, BS in Geophysical Engineering
