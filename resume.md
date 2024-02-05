@@ -17,7 +17,7 @@ peytonchandler@mines.edu
 - GPA: 4.02
 
 ## **Experience**
-**Crtical Materials Innovation Hub**
+**Critical Materials Innovation Hub**
 - Ran and managed the bioreactor system
 - Trained a graduate student
 
