@@ -8,7 +8,7 @@ peytonchandler@mines.edu
 
 
 ## **Education**
-**Colorado School of Mines**, BS in Geophysical Engineering
+**[Colorado School of Mines](https://www.mines.edu)**, BS in Geophysical Engineering
 
 - GPA: 3.2 
 
